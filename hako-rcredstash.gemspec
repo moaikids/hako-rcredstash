@@ -4,12 +4,12 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = 'hako-rcredstash'
-  spec.version       = '0.1.0'
+  spec.version       = '0.1.1'
   spec.authors       = ['moaikids']
   spec.email         = ['moaikids@gmail.com']
 
-  spec.summary       = 'Provide variables from rcredstash to hako using etcenv'
-  spec.description   = 'Provide variables from rcredstash to hako using etcenv'
+  spec.summary       = 'Provide variables from rcredstash to hako'
+  spec.description   = 'Provide variables from rcredstash to hako'
   spec.homepage      = 'https://github.com/moaikids/hako-rcredstash'
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
