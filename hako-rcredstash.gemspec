@@ -3,7 +3,7 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
-  spec.name          = 'hako-etcenv'
+  spec.name          = 'hako-rcredstash'
   spec.version       = '0.1.0'
   spec.authors       = ['moaikids']
   spec.email         = ['moaikids@gmail.com']
