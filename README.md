@@ -1,6 +1,8 @@
 # Hako::EnvProviders::Rcredstash
 Provide variables from [rcredstash](https://github.com/adorechic/rcredstash) to [hako](https://github.com/eagletmt/hako)
 
+[![Coverage Status](https://coveralls.io/repos/github/moaikids/hako-rcredstash/badge.svg)](https://coveralls.io/github/moaikids/hako-rcredstash)
+
 ## Installation
 
 Add this line to your application's Gemfile:
