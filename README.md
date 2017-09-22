@@ -3,6 +3,8 @@ Provide variables from [rcredstash](https://github.com/adorechic/rcredstash) to 
 
 [![Coverage Status](https://coveralls.io/repos/github/moaikids/hako-rcredstash/badge.svg)](https://coveralls.io/github/moaikids/hako-rcredstash)
 
+[![codebeat badge](https://codebeat.co/badges/404c9088-e104-4f13-b6de-7d0ebe8e5d81)](https://codebeat.co/projects/github-com-moaikids-hako-rcredstash-master)
+
 ## Installation
 
 Add this line to your application's Gemfile:
